@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ameeralimahar/Node-basics/issues"
   },
-  "homepage": "https://github.com/ameeralimahar/Node-basics#readme"
+  "homepage": "https://github.com/ameeralimahar/Node-basics#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
 }

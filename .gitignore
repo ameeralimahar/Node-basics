@@ -3,6 +3,6 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
-/node-express-course-main
+/node-express-course-main/
 # Express
 .env
